@@ -1,11 +1,10 @@
 # Zabbix
-How to up zabbix in docker compose
-# Prometheus-stack
+How to up zabbix 
 
  - [Building monitoring](#Сборка-приложения-в-DOCKER-с-помощью-Jenkins-pipline)
    - [What](#what)
-   - [Все о Prometheus](#Все-о-Prometheus)
-     - [Основы Prometheus](#Теория-Prometheus)
+   - [Все о Zabbix](#Все-о-Zabbix)
+     - [Основы Zabbix](#Теория-Zabbix)
      - [Архитектура](#Основые-компоненты)
    - [So, what is next ?](#So-,-what-is-next-?)
    - [Linux](#linux-bashzsh)
@@ -20,9 +19,9 @@ How to up zabbix in docker compose
 
 Prometheus — это бесплатное программное приложение, используемое для мониторинга и оповещения о событиях. Он записывает метрики в реальном времени в базу данных временных рядов, созданную с использованием модели извлечения HTTP, с гибкими запросами и оповещениями в реальном времени
 
-## Все о Prometheus
+## Все о Zabbix
 
-### Теория Prometheus
+### Теория Zabbix
 
 
 ### Основные компоненты
